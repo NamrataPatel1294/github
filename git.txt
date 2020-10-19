@@ -1,3 +1,38 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@NamrataPatel1294 
+ The password you provided is in a list of passwords commonly used on other websites. To increase your security, you must update your password. After November 17, 2020 we will automatically reset your password. Change your password on the settings page.
+
+Read our documentation on safer password practices.
+
+NamrataPatel1294
+/
+github
+forked from rishidhamija/github
+0
+01
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+github/git.txt
+@rishidhamija
+rishidhamija Create git.txt
+Latest commit 473d139 10 minutes ago
+ History
+ 1 contributor
+386 lines (330 sloc)  40.6 KB
+  
 From Wikipedia, the free encyclopedia
 Jump to navigationJump to search
 GitHub, Inc.
@@ -384,3 +419,15 @@ References
  "Bootstrap". GitHub.
  "GitHub and US Government developers".
  "NationalSecurityAgency". GitHub.
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
